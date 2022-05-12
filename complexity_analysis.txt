@@ -1,0 +1,6 @@
+Time complexity:
+
+The algorithm mainly calls DFS, DFS takes O(V+E) for a graph represented using adjacency list.
+
+Space complexity:
+Space complexity is O(V*E) for storing adjacency list.
